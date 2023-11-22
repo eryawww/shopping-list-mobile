@@ -1,3 +1,6 @@
+[Build Status Code](https://build.appcenter.ms/v0.1/apps/038cceb3-b3ac-49c7-b359-a50a8831f83c/branches/main/badge)
+[Public Application Link](https://install.appcenter.ms/orgs/erz-shopping-list/apps/shopping-list/distribution_groups/public)
+
 # shopping_list
 
 A new Flutter project.
